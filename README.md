@@ -1,7 +1,7 @@
 # panda-vim
 [Panda](http://panda.siamak.work/) syntax colors for vim.
 
-![Screenshot of vim using panda sytax]()
+![Screenshot of vim using panda sytax](screenshot.png)
 
 ## Installation
 
